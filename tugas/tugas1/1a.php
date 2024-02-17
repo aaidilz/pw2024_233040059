@@ -2,5 +2,5 @@
 $benda = "Topi";
 $bentuk = "Bundar";
 
-echo '<h2><i>' . '"' . $benda . ' saya ' . $bentuk . ', ' . $bentuk . ' ' . $benda . ' Saya"</i></h2>';
+echo '<h2><i>' . '"' . $benda . ' Saya ' . $bentuk . ', ' . $bentuk . ' ' . $benda . ' Saya"</i></h2>';
 ?>
