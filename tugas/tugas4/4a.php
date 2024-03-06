@@ -1,5 +1,6 @@
 <?php
 $list = ["epan", "cipta", "akan", "u", "asa", "esok"];
+
 ?>
 
 <!DOCTYPE html>
